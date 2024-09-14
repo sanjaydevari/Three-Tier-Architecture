@@ -63,16 +63,11 @@ Follow the steps below to get started with this infrastructure as code using Ter
 This infrastructure provisions the following resources in the ap-south-1 region:
 
 1.Web/Presentation Tier:
-
-Elastic Load Balancer (ELB) - Acts as the entry point for end users.
-
+     Elastic Load Balancer (ELB) - Acts as the entry point for end users.
 2.Application Tier:
-
-EC2 Instances - Deployed across multiple availability zones in private subnets.
-
+    EC2 Instances - Deployed across multiple availability zones in private subnets.
 3.Data Tier:
-
-Amazon RDS - MySQL database deployed on RDS, utilizing a subnet group with 3 private subnets across multiple availability zones.
+    Amazon RDS - MySQL database deployed on RDS, utilizing a subnet group with 3 private subnets across multiple availability zones.
 
 # `Cleaning Up`
 

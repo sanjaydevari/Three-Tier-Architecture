@@ -38,7 +38,7 @@ To use this terraform code, you need to have the following prerequisites:
 
 Follow the steps below to get started with this infrastructure as code using Terraform:
 
-1.Clone this repository to your local machine:
+1.Clone this repository to your local machine:https://github.com/sanjaydevari/Three-Tier-Architecture.git
 
 2.AWS account credentials with appropriate permissions to provision resources.
 
